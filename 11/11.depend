@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1741328613 source:d:\4vv22ec172\11\create.c
+	"create.h"
+	<stdio.h>
+
+1741328604 d:\4vv22ec172\11\create.h
+
+1741328589 source:d:\4vv22ec172\11\main.c
+	<stdio.h>
+	"create.h"
+
